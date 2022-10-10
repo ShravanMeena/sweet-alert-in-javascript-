@@ -8,6 +8,7 @@ Hi, devs. An awesome replacement for JavaScript’s alert.
 
 
 ## Technology Stack Used In This Project
+* Sweet Alert
 * JavaScript
 * HTML/CSS
 
