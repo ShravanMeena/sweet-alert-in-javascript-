@@ -1,4 +1,4 @@
-![](https://github.com/ShravanMeena/API-Pexels-gallery/blob/main/src/assets/demo_2.png?raw=true)
+![](https://github.com/ShravanMeena/sweet-alert-in-javascript-/blob/main/sweeet%20alert.png?raw=true)
 
 ## Project
 Hi, devs. An awesome replacement for JavaScript’s alert.
